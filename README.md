@@ -1,5 +1,5 @@
 # Quadcopter
-Trajectory control with Quadcopter
+Trajectory control with Quadcopter in MatLAB using Simulink
 
 Each Simulation is separated into different files
 
