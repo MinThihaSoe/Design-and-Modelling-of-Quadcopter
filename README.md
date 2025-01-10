@@ -1,7 +1,7 @@
 # Quadcopter
 Trajectory control with Quadcopter in MatLAB using Simulink
 
-This project is reseached for MAE6245 : Robotic Systems class in The George Washington University (2024).
+This project is reseached for MAE6245 : Robotic Systems course in The George Washington University (2024).
 
 Each Simulation is separated into different files
 
